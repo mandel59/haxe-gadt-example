@@ -1,0 +1,3 @@
+package mylang;
+
+enum TNil {}
